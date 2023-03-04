@@ -3,7 +3,7 @@ import { useState } from "react";
 function home(){
     return( 
     <div>
-        <h1>Bem vindo pagina incial</h1>
+        <h1 style={{color:'tomato'}}>Bem vindo pagina incial</h1>
         <Contador />
     </div>
     )
